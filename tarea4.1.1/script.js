@@ -7,3 +7,6 @@ let palabra = "hola mundo";
 
 /* 3 Una variable booleana cuyo nombre sea respuesta e inicialmente con valor true*/
 var respuesta = new Boolean(true);
+
+/* */ 
+const pi = 3.14;
