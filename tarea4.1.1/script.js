@@ -13,3 +13,6 @@ const pi = 3.14;
 
 /*5 Modifica el valor de la variable numero para que en lugar de -4 sea 54 pero sin tocar la parte de la declaración de la variable.*/
 numero=54;
+
+/*6 ¿Qué psa si modificas el valor de la variable antes de que esta sea declarada? */ 
+a = 10; // ReferenceError: Cannot access 'a' before initialization
