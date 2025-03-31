@@ -16,3 +16,9 @@ numero=54;
 
 /*6 ¿Qué psa si modificas el valor de la variable antes de que esta sea declarada? */ 
 a = 10; // ReferenceError: Cannot access 'a' before initialization
+
+// 7 Muestra por consola cada una de las variables. Usa console.log(nombre_variable); 
+console.log(numero);  
+console.log(palabra); 
+console.log(respuesta);
+console.log(pi);       
