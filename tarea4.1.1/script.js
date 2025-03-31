@@ -65,3 +65,6 @@ let modulo = variable1%variable2;
 console.log(modulo);
 
 
+//14 Declara una variable cuyo valor sea tu nombre.
+let nombre = "Ismael";
+
