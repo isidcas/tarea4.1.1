@@ -50,3 +50,10 @@ let multiplicacion = variable1*variable2;
 
 console.log(multiplicacion);
 
+//12 Muestra por consola la división de ambas variables.
+
+
+let división = variable1/variable2;
+
+console.log(división);
+
