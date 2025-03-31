@@ -36,3 +36,9 @@ console.log(variable2);
 let suma = variable1 + variable2;
 
 console.log(suma);
+
+//10 Muestra por consola la resta de ambas variables.
+
+let resta = variable1-variable2;
+
+console.log(resta);
