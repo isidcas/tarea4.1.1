@@ -57,3 +57,11 @@ let división = variable1/variable2;
 
 console.log(división);
 
+//13 Muestra por consola la módulo de ambas variables.
+
+
+let modulo = variable1%variable2;
+
+console.log(modulo);
+
+
