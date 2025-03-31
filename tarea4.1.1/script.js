@@ -42,3 +42,11 @@ console.log(suma);
 let resta = variable1-variable2;
 
 console.log(resta);
+
+
+//11 Muestra por consola la multiplicación de ambas variables.
+
+let multiplicacion = variable1*variable2;
+
+console.log(multiplicacion);
+
