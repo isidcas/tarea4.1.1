@@ -23,10 +23,16 @@ console.log(palabra);
 console.log(respuesta);
 console.log(pi);       
 
-//Declara 2 variables y asigna los valores 5 y 2 respectivamente
+//8 Declara 2 variables y asigna los valores 5 y 2 respectivamente
 
 let variable1 = 5;
 let variable2 = 2;
 
-console.log(variable1); // 5
-console.log(variable2); // 2
+console.log(variable1); 
+console.log(variable2); 
+
+// 9 Muestra por consola la suma de ambas variables.
+
+let suma = variable1 + variable2;
+
+console.log(suma);
